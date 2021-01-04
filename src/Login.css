@@ -31,3 +31,16 @@
   margin-top: 15px;
   font-size: 12px;
 }
+.login__container > h1 {
+  font-weight: 500px;
+  margin-bottom: 20px;
+}
+.login__containter > form > h5 {
+  margin-bottom: 5px;
+}
+.login_continer > form > input {
+  height: 30px;
+  margin-bottom: 10px;
+  background-color: white;
+  width: 98px;
+}
